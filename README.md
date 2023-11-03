@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayyangr
 - 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science at dibimbing.id
 - 💞️ I’m looking to collaborate on various project that related to data science
 - 📫 How to reach me by email: rghausr@gmail.com or linkedin:linkedin.com/in/rayyan-ghaus-rahmat/
 
